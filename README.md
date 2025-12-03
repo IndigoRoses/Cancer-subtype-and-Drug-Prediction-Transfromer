@@ -57,7 +57,7 @@ h5py 2.8.0
 
 ## Pipeline Diagram
 
-![Model Architecture](./Model_Architecture_Diagram.png)
+![Model Architecture](./assets/Model_Architecture_Diagram.png)
 
 > **Note:** The following commands are for Windows PowerShell. For Unix/Linux/macOS, use the alternative shown below.
 
